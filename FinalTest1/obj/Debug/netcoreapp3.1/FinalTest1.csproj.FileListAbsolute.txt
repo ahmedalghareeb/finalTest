@@ -1,0 +1,13 @@
+C:\Users\asgha\source\repos\FinalTest1\FinalTest1\bin\Debug\netcoreapp3.1\FinalTest1.exe
+C:\Users\asgha\source\repos\FinalTest1\FinalTest1\bin\Debug\netcoreapp3.1\FinalTest1.deps.json
+C:\Users\asgha\source\repos\FinalTest1\FinalTest1\bin\Debug\netcoreapp3.1\FinalTest1.runtimeconfig.json
+C:\Users\asgha\source\repos\FinalTest1\FinalTest1\bin\Debug\netcoreapp3.1\FinalTest1.runtimeconfig.dev.json
+C:\Users\asgha\source\repos\FinalTest1\FinalTest1\bin\Debug\netcoreapp3.1\FinalTest1.dll
+C:\Users\asgha\source\repos\FinalTest1\FinalTest1\bin\Debug\netcoreapp3.1\FinalTest1.pdb
+C:\Users\asgha\source\repos\FinalTest1\FinalTest1\obj\Debug\netcoreapp3.1\FinalTest1.csprojAssemblyReference.cache
+C:\Users\asgha\source\repos\FinalTest1\FinalTest1\obj\Debug\netcoreapp3.1\FinalTest1.AssemblyInfoInputs.cache
+C:\Users\asgha\source\repos\FinalTest1\FinalTest1\obj\Debug\netcoreapp3.1\FinalTest1.AssemblyInfo.cs
+C:\Users\asgha\source\repos\FinalTest1\FinalTest1\obj\Debug\netcoreapp3.1\FinalTest1.csproj.CoreCompileInputs.cache
+C:\Users\asgha\source\repos\FinalTest1\FinalTest1\obj\Debug\netcoreapp3.1\FinalTest1.dll
+C:\Users\asgha\source\repos\FinalTest1\FinalTest1\obj\Debug\netcoreapp3.1\FinalTest1.pdb
+C:\Users\asgha\source\repos\FinalTest1\FinalTest1\obj\Debug\netcoreapp3.1\FinalTest1.genruntimeconfig.cache
